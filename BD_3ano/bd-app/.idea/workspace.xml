@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Database.java" line="487" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8e3b74e-6b47-49f1-835f-fd8b57fa18a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/.idea/Sprint_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/feed/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/feed/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/feed/guid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/feed/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/feed/responses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/feed/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/feed/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/jest/cssTransform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/jest/fileTransform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/webpack.config.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/webpack.config.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/config/webpackDevServer.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/nohup.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/scripts/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/scripts/start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/scripts/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/Fonts/AvenirLTStd-Black.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/Fonts/AvenirLTStd-Book.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/Fonts/AvenirLTStd-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/Media/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/Media/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/Media/logo_nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/Media/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/LoginForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/LoginMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/LoginSignUp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/activateAccount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/changePassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/changePasswordMessage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/confirmAccount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/forgotPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/resetPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/userLogin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/Login/userRegister.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/addcoment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/addphoto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/addurl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/feedMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/pub1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/pub2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/redditpub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/saved.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/feed/tweetpub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/navbar/innerMenu/innerMenuMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/navbar/innerMenu/sideMenu/settingsAndPrivacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/navbar/innerMenu/sideMenuMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/navbar/innerMenu/subMenu/userChangePassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/navbar/innerMenu/subMenuMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/navbar/navBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/resources/checkboxItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/resources/popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/resources/resourceItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/resources/resourcesMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/editUserProfileForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/network/follower.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/network/subSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/network/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/network/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/profileAbout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/profileNetwork.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/profileProject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/profilePublication.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/menuSubSections/publication/post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/userProfileHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/userProfileMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/userProfileMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/components/user-profile/userProfileMenuSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/Ellipse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/ProfileBlue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/Profilewhite-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/balloon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/clip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/down-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/facebook-logo-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/fundo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/google-plus-logo-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/linkedin-logo-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/mapin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/multiple-users-silhouette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/projection-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/resume-document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/twitter-logo-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/up-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/user-silhouette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/images/waste-bin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/editUserProfileForm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/errorPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/addcoment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/btn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/imagespub.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/jumbotron.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/pub.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/textpub.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/feed/utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/innerMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/login/setup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/loginSignForm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/resources.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/url.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/styles/userProfile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/views/errorPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/views/feed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/views/signup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/frontend/src/views/userProfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/project/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/project/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/project/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/guid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/responses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/validators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/project/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wesearchers-api-master/runtime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../wesearchers-api" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../wesearchers-api" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/bd_app$Client.ic" NAME="Client Coverage Results" MODIFIED="1543097955436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="210" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1585845348">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="16" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="27" />
+          <entry key="java___jb_old___" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="16" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="27" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="15580" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="15580" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-332">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#Server#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="729" column="9" lean-forward="true" selection-end-line="1035" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#request#0;class#Client#0" />
+                <element signature="method#main#0;class#Client#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="949" column="72" selection-start-line="949" selection-start-column="72" selection-end-line="949" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Database#0;class#Database#0" />
+                <element signature="method#process#0;class#Database#0" />
+                <element signature="method#regist#0;class#Database#0" />
+                <element signature="method#login#0;class#Database#0" />
+                <element signature="method#show#0;class#Database#0" />
+                <element signature="method#showinfo#0;class#Database#0" />
+                <element signature="method#create#0;class#Database#0" />
+                <element signature="method#writereview#0;class#Database#0" />
+                <element signature="method#add#0;class#Database#0" />
+                <element signature="method#search#0;class#Database#0" />
+                <element signature="method#edit#0;class#Database#0" />
+                <element signature="method#remove#0;class#Database#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>,</find>
+      <find>check</find>
+      <find>show</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,/n</replace>
+      <replace>,//n</replace>
+      <replace>,</replace>
+      <replace>,\n</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/../../../SD/Ficha2_Sockets/SocketsExamples/SocketsExamples/TCPServer.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/Database.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543426626096" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/postgresql-42.2.5.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diogo\Documents\3ºAno_1ºSemestre\BD\BD_meta2\bd-app\src" />
+      <recent name="C:\Users\diogo\Documents\3ºAno_1ºSemestre\BD\BD_meta2\bd-app\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="bd-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="bd-app" />
+      <option name="PROGRAM_PARAMETERS" value="10 zubiru" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e3b74e-6b47-49f1-835f-fd8b57fa18a1" name="Default Changelist" comment="" />
+      <created>1542900155417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542900155417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17697228" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49418604" weight="0.27491784" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Floobits" order="7" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50606793" side_tool="true" weight="0.35377875" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49667773" weight="0.51150054" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.50332224" side_tool="true" weight="0.21258135" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32935917" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="message" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bd-app.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/bd-app/Server.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../SD/Ficha2_Sockets/SocketsExamples/SocketsExamples/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../SD/Ficha2_Sockets/SocketsExamples/SocketsExamples/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="386" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../SD/DropMusic-master/project/src/RMIServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5478" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Client (1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="387" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../SD/DropMusic-master/project/src/MulticastServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3436">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/postgresql-42.2.5.jar!/org/postgresql/jdbc/PgResultSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1439" selection-start-line="1439" selection-end-line="1439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java___jb_old___" />
+    <entry file="file://$USER_HOME$/Downloads/Client (2).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="487" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/postgresql-42.2.5.jar!/org/postgresql/jdbc/PgPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Database (1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="51" lean-forward="true" selection-end-line="968" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/postgresql-42.2.5.jar!/org/postgresql/jdbc/PgConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="541" selection-start-line="541" selection-end-line="541" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="613" selection-start-line="613" selection-end-line="613" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.sql/java/sql/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Server#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="949" column="72" selection-start-line="949" selection-start-column="72" selection-end-line="949" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Database#0;class#Database#0" />
+            <element signature="method#process#0;class#Database#0" />
+            <element signature="method#regist#0;class#Database#0" />
+            <element signature="method#login#0;class#Database#0" />
+            <element signature="method#show#0;class#Database#0" />
+            <element signature="method#showinfo#0;class#Database#0" />
+            <element signature="method#create#0;class#Database#0" />
+            <element signature="method#writereview#0;class#Database#0" />
+            <element signature="method#add#0;class#Database#0" />
+            <element signature="method#search#0;class#Database#0" />
+            <element signature="method#edit#0;class#Database#0" />
+            <element signature="method#remove#0;class#Database#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="729" column="9" lean-forward="true" selection-end-line="1035" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#request#0;class#Client#0" />
+            <element signature="method#main#0;class#Client#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bd-app</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>postgresql-42.2.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

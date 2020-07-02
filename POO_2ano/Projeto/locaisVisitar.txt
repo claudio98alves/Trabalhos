@@ -1,0 +1,10 @@
+Bar/100/2/Lat:40,2092 Long:-8,4276/0/Moelas/
+Bar/20/2/Lat:40,2089 Long:-8,4264/0/Bigorna/
+Bar/1000/3/Lat:40,2080 Long:-8,4204/0/NB Club/
+Jardim/135000/Lat:40,2059 Long:-8,4165/0/Jardim Botanico/
+Jardim/400000/Lat:40,2047 Long:-8,4273/0/Parque Verde/
+Jardim/10000/Lat:40,2051 Long:-8,4148/0/Penedo da Saudade/
+Jardim/100000/Lat:40,2095 Long:-8,4191/0/Jardim da Sereia/
+AreaDesportiva/Futebol Futsal/Lat:40,2104 Long:-8,4165/0/Campo St.Cruz/
+Exposicao/Pintura/5/Lat:40,2089 Long:-8,4255/0/Museu Nacional Machado de Castro/
+Exposicao/Escultura/4.5/Lat:40,2085 Long:-8,4226/0/Museu Academico/

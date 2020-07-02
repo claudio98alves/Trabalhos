@@ -1,0 +1,46 @@
+•	Listar músicos(nome,id);      ✓                 Protocolo type -> show / select -> musicos
+•	Listar bandas(nome,id);       ✓                 Protocolo type -> show / select -> bandas
+• Listar todos os artistas      ✓                 Protocolo type -> show / select -> artistas
+•	Listar álbuns(nome,id);       ✓                 Protocolo type -> show / select -> albuns
+• Listar compositores           ✓                 Protocolo type -> show / select -> compositores
+•	Listar músicas(nome,id);      ✓                 Protocolo type -> show / select -> musicas
+•	Listar concertos(lugar,data,nome,idartista);✓   Protocolo type -> show / select -> concertos
+•	Listar as minhas playlists(nome,nome_uti);  ✓   Protocolo type -> show / select -> my playlists / username -> valor
+•	Listar todas a playlists a que tenho acesso;✓   Protocolo type -> show / select -> all playlists
+•	Listar músicas das playlists; ✓                 Protocolo type -> show / select -> playlist musics / playlistName -> valor / playlistOwner -> valor
+•	Listar as minhas criticas;    ✓                 Protocolo type -> show / select -> my reviews / username -> valor
+•	Listar criticas de um álbum;  ✓                 Protocolo type -> show / select -> reviews album / id_album -> valor
+• Listar editoras               ✓                 Protocolo type -> show / select -> editoras
+
+•	Info músico;                  ✓                  Protocolo type -> show info / select -> musicos / id ->valor
+•	Info bandas;                  ✓                  Protocolo type -> show info / select -> bandas / id ->valor
+•	Info musicas;                 ✓                  Protocolo type -> show info / select -> musicas / id ->valor
+•	Info álbuns;                  ✓                  Protocolo type -> show info / select -> albuns / id ->valor
+
+•	Registar utilizador;    ✓                       Protocolo type -> regist /username -> valor / password -> valor / permissao ->(editor - true/normal -false)
+•	Login utilizador;       ✓                       Protocolo type -> login /username -> valor / password -> valor
+•	Escrever critica;       ✓                       Protocolo type -> write review / texto -> valor / rate-> valor / username -> valor / id_album -> valor
+
+•	Criar playlist;         ✓                       Protocolo type -> create / select -> playlist / nome -> valor / username -> valor / permissao -> (private - true / public - false)
+•	Adicionar albúm;        ✓                       Protocolo type -> create / select -> album / nome -> valor / genero -> valor / datalancamento -> valor / historia -> valor / editora_nome -> valor / id_artist -> valor / id_musics -> id-id-id-id
+•	Adicionar música;       ✓                       Protocolo type -> create / select -> musica / nome -> valor / letra -> valor / duracao ->valor / compositor -> valor
+•	Adicionar editora;      ✓                       Protocolo type -> create / select -> editora / nome -> valor
+•	Adicionar músicos;      ✓                       Protocolo type -> create / select -> musico / nome -> valor / historia -> valor
+•	Adicionar compositores; ✓                       Protocolo type -> create / select -> compositor / id_artist->valor
+•	Adicionar bandas;       ✓                       Protocolo type -> create / select -> banda / nome -> valor / historia -> valor / inicio -> valor / fim -> valor / id_musicos -> id-id-id
+•	Adicionar concerto;     ✓                       Protocolo type -> create / select -> concerto / lugar -> valor / data -> valor
+
+•	Inserir música na playlist  ✓                    Protocolo type -> add / select -> playlist / nome -> valor / id_music -> valor / username -> valor
+• Inserir musica no album     ✓                    Protocolo type -> add / select -> album / id_album ->valor / id_music -> valor
+• Inserir musico numa banda   ✓                    Protocolo type -> add / select -> bandas / id_bandas -> valor / id_musico -> valor
+
+• Pesquisar           ✓                            Protocolo type -> search / searchInput -> valor / select -> all
+                      ✓                            Protocolo type -> search / searchInput -> valor / select -> musicas
+                      ✓                            Protocolo type -> search / searchInput -> valor / select -> musicos
+• Editar playlists    ✓                            Protocolo type -> edit / select -> playlists / atributo -> (nome,permissao) / new -> valor / owner -> valor / nomeplaylist -> valor
+• Editar musicas      ✓                            Protocolo type -> edit / select -> musicas / atributo ->   (nome,letra,duracao,compositor) / new -> valor / id -> valor
+• Editar albuns       ✓                            Protocolo type -> edit / select -> albuns  / atributo ->   (nome,genero,datalancamento,historia,editora,artista) / new -> valor / id -> valor
+• Editar musicos      ✓                            Protocolo type -> edit / select -> musicos / atributo ->   (nome,historia) / new -> valor / id -> valor
+• Editar bandas       ✓                            Protocolo type -> edit / select -> bandas /atributo ->   (nome,historia,inicio,fim) / new -> valor / id -> valor
+• Remover musica da playlist    ✓                  Protocolo type -> remove / select -> playlists / playlistNome -> valor / username -> valor / id_musica -> valor
+• Remover musico da banda       ✓                  Protocolo type -> remove / select -> bandas / id_banda -> valor / id_musico -> valor

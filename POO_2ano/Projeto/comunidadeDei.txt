@@ -1,0 +1,10 @@
+Estudante-LEI-Boemio-Carlos-2017001-pass123-
+Estudante-LDM-Desportivo-Antonio-2017002-pass123-
+Estudante-LDM-Cultural-Raquel-2017003-pass123-
+Estudante-LEI-Poupadinho-Maria-2017004-pass123-
+Estudante-LDM-Boemio-Gabriela-2017005-pass123-
+Professor-Auxiliar-Boemio-Joaquim-2017006-pass123-
+Professor-Associado-Desportivo-Rui-2017007-pass123-
+Professor-Catedratico-Cultural-Marilia-2017008-pass123-
+Funcionario-Parcial-Boemio-Claudio-2017009-pass123-
+Funcionario-Integral-Poupadinho-Diogo-2017010-pass123-
