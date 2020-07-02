@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1496080997 source:c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"estruturas.h"
+	"manipula_listas.h"
+	"ficheiros.h"
+
+1495906917 c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\estruturas.h
+
+1494966928 c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\alunos.h
+
+1496080932 c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\manipula_listas.h
+
+1496085760 source:c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\manipula_listas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"estruturas.h"
+	"manipula_listas.h"
+	"ficheiros.h"
+
+1496050604 source:c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"estruturas.h"
+	"manipula_listas.h"
+	"ficheiros.h"
+
+1496067375 c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\ficheiros.h
+
+1496085219 source:c:\users\user\desktop\ppp\nova pasta\projectos\projecto_final\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"estruturas.h"
+	"manipula_listas.h"
+	"ficheiros.h"
+

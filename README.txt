@@ -14,3 +14,9 @@ IIA_3ano: Unity
     TP2 - Consiste no estudo e experimentação de redes neuronais, feito apartir de código fornecido pelos docentes da cadeira.
 
 IS - Mini projeto de um website da cadeira de Integração de Sistemas, com back-end e um front-end simples (só para testar as funcionalidades pedidas para o trabalho)
+
+PPP_1ano - Primeiro projeto da faculdade, primeiro contato com C. Este projeto serviu para um primeiro contato com programação, menus de comand line, lista ligadas, (alguns bugs)
+
+IRC_2ano - Um chat implementado em python, mini projeto de introdução a redes.
+
+IHC - Aplicação móvel desenvolvida em grupo, utilizando ReactNative + NodeJS. É um jogo simples, de perguntas e respostas.

@@ -1,0 +1,19 @@
+{
+  "name": "qapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+"engines": {
+    "npm": "6.10.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
